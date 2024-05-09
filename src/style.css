@@ -1,0 +1,186 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  .div {
+    max-width: 830px;
+    margin: 0 auto;
+  }
+  
+  .text-1 {
+    text-align: center;
+    font-size: 32px;
+  }
+  
+  .border-1 {
+    width: 830px;
+    height: 150px;
+    border: solid 2px rgba(128, 128, 128, 0.383);
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .todo {
+    margin-top: 11px;
+    font-size: 18px;
+    color: gray;
+  }
+  
+  .border-2 {
+    width: 42px;
+    height: 42px;
+    border: 2px solid darkturquoise;
+    background-color: darkturquoise;
+    border-radius: 7px 0px 0px 7px;
+  }
+  
+  .img-1 {
+    width: 25px;
+    margin-top: 7px;
+  }
+  
+  .border-3 {
+    width: 700px;
+    height: 42px;
+    border: solid 2px rgba(128, 128, 128, 0.383);
+    border-radius: 0px 7px 7px 0px;
+  }
+  
+  .div-2 {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+  }
+  
+  .button-1 {
+    width: 750px;
+    height: 42px;
+    background-color: darkturquoise;
+    color: white;
+    border: solid 2px darkturquoise;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button {
+    width: 230px;
+    height: 43px;
+    border-radius: 5px;
+    background-color: darkturquoise;
+    color: white;
+    border: solid 2px darkturquoise;
+    font-size: 16px;
+  }
+  
+  .div-3 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .border-4,
+  .border-5,
+  .border-6,
+  .border-7,
+  .border-8 {
+    border: 2px solid rgba(128, 128, 128, 0.383);
+    width: 830px;
+    height: 50px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .border-4 {
+    margin-top: 60px;
+    padding: 0 20px;
+    margin-top: 30px;
+  }
+  
+  .div-10 {
+    font-size: 30px;
+    color: gray;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 22px;
+    margin-top: 15px;
+
+  }
+  
+  .div-10 *:hover {
+    color: #111;
+  }
+  
+  .div-10 * {
+    line-height: 0;
+  }
+  
+  .div-10 input {
+    transform: scale(2);
+  }
+  
+  .div-100 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .last-b {
+    width: 400px;
+    height: 45px;
+    background-color: rgba(255, 0, 0, 0.77);
+    border: solid 2px rgba(255, 0, 0, 0.77);
+    margin-top: 40px;
+    border-radius: 4px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.835);
+  }
+  
+  .red {
+    color: red;
+    text-decoration: line-through;
+  }
+  
+  /* Additional styles for Main.js component */
+  .div-10 {
+    padding-right: 23px;
+  }
+  
+  .p-1 {
+    color: red;
+    font-size: 18px;
+    margin-left: 18px;
+  }
+  
+  .img-2 {
+    width: 25px;
+  }
+  
+  .image {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+  
+  .text {
+    margin-left: 18px;
+    color: rgb(0, 0, 0);
+  }
+  .btn{
+    border: none;
+    color: gray;
+    font-size: 30px;
+    background-color: #fff;
+  }
+  .qwer{
+    border: 0;
+
+  }
+  .gi{
+    margin-left: 450px;
+    background-color: #fff;
+    border: 0;
+    font-size: 30px;
+    margin-top: 10px;
+    color: gray;
+  }
